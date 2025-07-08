@@ -1,0 +1,64 @@
+[
+  {
+    "name": "MAME Arcade Emulator",
+    "path": "/Users/auser/Downloads/mame-mame0277/mame",
+    "extensions": [
+      "zip",
+      "7z"
+    ],
+    "system_name": null
+  },
+  {
+    "name": "MAME (NES)",
+    "path": "/Users/auser/Downloads/mame-mame0277/mame",
+    "extensions": [
+      "nes"
+    ],
+    "system_name": "nes"
+  },
+  {
+    "name": "MAME (SNES)",
+    "path": "/Users/auser/Downloads/mame-mame0277/mame",
+    "extensions": [
+      "snes",
+      "smc",
+      "sfc"
+    ],
+    "system_name": "snes"
+  },
+  {
+    "name": "MAME (Game Boy / Color)",
+    "path": "/Users/auser/Downloads/mame-mame0277/mame",
+    "extensions": [
+      "gb",
+      "gba"
+    ],
+    "system_name": "gameboy"
+  },
+  {
+    "name": "MAME (Nintendo 64)",
+    "path": "/usr/local/bin/mame",
+    "extensions": [
+      "n64"
+    ],
+    "system_name": "n64"
+  },
+  {
+    "name": "MAME (PlayStation)",
+    "path": "/Users/auser/Downloads/mame-mame0277/mame",
+    "extensions": [
+      "ps1"
+    ],
+    "system_name": "psx"
+  },
+  {
+    "name": "MAME (Sega Genesis)",
+    "path": "/Users/auser/Downloads/mame-mame0277/mame",
+    "extensions": [
+      "md",
+      "gen",
+      "bin"
+    ],
+    "system_name": "genesis"
+  }
+]
